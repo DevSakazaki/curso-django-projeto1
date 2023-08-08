@@ -1,0 +1,7 @@
+[MASTER]
+load-plugins = pylint_django
+
+[MESSAGES CONTROL]
+# ... outras configurações ...
+
+pylint_plugins = ['pylint_django']
